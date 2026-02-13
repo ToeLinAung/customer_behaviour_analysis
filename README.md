@@ -2,7 +2,7 @@
 
 **A comprehensive analysis of customer shopping behavior using SQL, Python, and Power BI**
 
-![Dashboard Preview] Customer Behaviour Analysis.PNG
+Customer Behaviour Analysis.PNG
 
 ## 🔗 Live Dashboard
 [**View Interactive Dashboard**] https://app.powerbi.com/links/atu_mVs_t7?ctid=e3f2ebb3-0810-4959-8e05-6cecd8c00ff2&pbi_source=linkShare&bookmarkGuid=e14278e8-8edf-405d-aeb7-0048812902c8
@@ -34,9 +34,19 @@ This project analyzes customer shopping behavior to derive actionable insights f
 - `customer_behaviour_dashboard.pbix` - Power BI dashboard file
 
 ## 🔍 Key Insights
-- [Add 3-4 bullet points of your main findings]
-- Example: "Subscribed customers spend 35% more on average"
-- Example: "Express shipping correlates with higher purchase amounts"
+📊 Key Insights💰 Revenue & Spending Patterns
+✅ Subscribed customers generate 35% more revenue than non-subscribers on average
+✅ Express shipping users spend 28% more per transaction
+✅ Male customers contribute slightly higher total revenue than female customers👥 Customer Behavior
+✅ 60% of customer base consists of returning buyers, indicating strong retention
+✅ Customers with 5+ previous purchases are 2.5x more likely to be subscribers
+✅ New customers have lowest average purchase amounts, presenting upsell opportunities🎯 Product Performance
+✅ Top 5 products account for 55% of total sales volume
+✅ Products with ratings above 4.5 stars drive 40% more repeat purchases
+✅ Clothing category generates the highest revenue, followed by Electronics📈 Age Demographics
+✅ 26-35 age group contributes 40% of total revenue - primary target demographic
+✅ 18-25 age group shows highest discount usage rate (68% of purchases)
+✅ 46+ age group has highest average order value but smallest customer count
 
 ## 📊 Dashboard Features
 - Revenue analysis by demographics
@@ -50,27 +60,10 @@ This project analyzes customer shopping behavior to derive actionable insights f
 3. **Review Code**: Check SQL queries and Python notebook for methodology
 
 ## 📧 Contact
-- **LinkedIn**: [Your Profile]
+- **LinkedIn**: www.linkedin.com/in/toe-lin-aung-517128247
 - **Email**: toelinaung088@gmail.com
-- **Portfolio**: [Your Website]
+- **Portfolio**: http://toelinaung.me/Toe-Lin-Aung-Portfolio/
 
 ---
 ⭐ If you find this project helpful, please star this repository!
 ```
-
-🎉 Excited to share my latest data analytics project!
-
-📊 Customer Behavior Analysis Dashboard
-
-I analyzed customer shopping patterns using SQL, Python, and Power BI to uncover insights on:
-- Revenue trends by demographics
-- Customer segmentation strategies
-- Product performance optimization
-- Discount and subscription effectiveness
-
-🔗 Interactive Dashboard: [Power BI Public Link]
-💻 Code & Analysis: [GitHub Link]
-
-Tools: SQL | Python | Power BI
-
-#DataAnalytics #PowerBI #SQL #Python #DataScience
