@@ -5,7 +5,8 @@
 ![Dashboard Preview](screenshot.png)
 
 ## 🔗 Live Dashboard
-[**View Interactive Dashboard**](YOUR_POWER_BI_PUBLIC_LINK_HERE)
+[**View Interactive Dashboard**] https://app.powerbi.com/links/atu_mVs_t7?ctid=e3f2ebb3-0810-4959-8e05-6cecd8c00ff2&pbi_source=linkShare&bookmarkGuid=e14278e8-8edf-405d-aeb7-0048812902c8
+
 
 ## 📋 Project Overview
 This project analyzes customer shopping behavior to derive actionable insights for business decision-making. The analysis covers revenue patterns, customer segmentation, product performance, and the impact of discounts and subscriptions.
@@ -57,29 +58,6 @@ This project analyzes customer shopping behavior to derive actionable insights f
 ⭐ If you find this project helpful, please star this repository!
 ```
 
-4. Click **"Commit changes"**
-
-### **D. Add Dashboard Screenshot:**
-1. Open your Power BI Public dashboard
-2. Take screenshot (full screen, high quality)
-3. In GitHub, click **"Add file"** → **"Upload files"**
-4. Upload screenshot as `screenshot.png`
-5. Now your README will show the preview image
-
----
-
-## **STEP 6: Share Your Project**
-
-### **You Now Have:**
-1. ✅ **Power BI Public Link** - Interactive dashboard
-2. ✅ **GitHub Repository** - All code and files
-3. ✅ **README Documentation** - Professional presentation
-
-### **Where to Share:**
-
-**LinkedIn:**
-1. Create a post:
-```
 🎉 Excited to share my latest data analytics project!
 
 📊 Customer Behavior Analysis Dashboard
