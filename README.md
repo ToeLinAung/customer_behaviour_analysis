@@ -2,7 +2,7 @@
 
 **A comprehensive analysis of customer shopping behavior using SQL, Python, and Power BI**
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview] Customer Behaviour Analysis.PNG
 
 ## 🔗 Live Dashboard
 [**View Interactive Dashboard**] https://app.powerbi.com/links/atu_mVs_t7?ctid=e3f2ebb3-0810-4959-8e05-6cecd8c00ff2&pbi_source=linkShare&bookmarkGuid=e14278e8-8edf-405d-aeb7-0048812902c8
@@ -51,7 +51,7 @@ This project analyzes customer shopping behavior to derive actionable insights f
 
 ## 📧 Contact
 - **LinkedIn**: [Your Profile]
-- **Email**: [Your Email]
+- **Email**: toelinaung088@gmail.com
 - **Portfolio**: [Your Website]
 
 ---
