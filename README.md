@@ -34,19 +34,26 @@ This project analyzes customer shopping behavior to derive actionable insights f
 - `customer_behaviour_dashboard.pbix` - Power BI dashboard file
 
 ## 🔍 Key Insights
-📊 Key Insights💰 Revenue & Spending Patterns
-✅ Subscribed customers generate 35% more revenue than non-subscribers on average
-✅ Express shipping users spend 28% more per transaction
-✅ Male customers contribute slightly higher total revenue than female customers👥 Customer Behavior
-✅ 60% of customer base consists of returning buyers, indicating strong retention
-✅ Customers with 5+ previous purchases are 2.5x more likely to be subscribers
-✅ New customers have lowest average purchase amounts, presenting upsell opportunities🎯 Product Performance
-✅ Top 5 products account for 55% of total sales volume
-✅ Products with ratings above 4.5 stars drive 40% more repeat purchases
-✅ Clothing category generates the highest revenue, followed by Electronics📈 Age Demographics
-✅ 26-35 age group contributes 40% of total revenue - primary target demographic
-✅ 18-25 age group shows highest discount usage rate (68% of purchases)
-✅ 46+ age group has highest average order value but smallest customer count
+
+### 💰 Revenue & Spending Patterns
+- Subscribed customers generate 35% more revenue than non-subscribers on average
+- Express shipping users spend 28% more per transaction
+- Male customers contribute slightly higher total revenue than female customers
+
+### 👥 Customer Behavior
+- 60% of customer base consists of returning buyers, indicating strong retention
+- Customers with 5+ previous purchases are 2.5x more likely to be subscribers
+- New customers have lowest average purchase amounts, presenting upsell opportunities
+
+### 🎯 Product Performance
+- Top 5 products account for 55% of total sales volume
+- Products with ratings above 4.5 stars drive 40% more repeat purchases
+- Clothing category generates the highest revenue, followed by Electronics
+
+### 📈 Age Demographics
+- 26-35 age group contributes 40% of total revenue - primary target demographic
+- 18-25 age group shows highest discount usage rate (68% of purchases)
+- 46+ age group has highest average order value but smallest customer count
 
 ## 📊 Dashboard Features
 - Revenue analysis by demographics
@@ -66,4 +73,3 @@ This project analyzes customer shopping behavior to derive actionable insights f
 
 ---
 ⭐ If you find this project helpful, please star this repository!
-```
